@@ -1,0 +1,5 @@
+[theme]
+base = "dark"
+font = "Google Sans:https://fonts.googleapis.com/css2?family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&display=swap"
+# font = "Geist:https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap"
+# font = "Nunito Sans:https://fonts.googleapis.com/css2?family=Geist:wght@100..900&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap"

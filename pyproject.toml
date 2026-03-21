@@ -1,0 +1,18 @@
+[project]
+name = "expense-tracker"
+version = "0.1.0"
+description = "Python-based expense tracker for DKB"
+requires-python = ">=3.14"
+dependencies = [
+    "duckdb>=1.5.0",
+    "fints>=5.0.0",
+    "python-dotenv>=1.2.2",
+    "streamlit>=1.55.0",
+]
+
+[project.scripts]
+expense-tracker = "expense_tracker:main"
+
+[build-system]
+requires = ["uv_build>=0.10.10,<0.11.0"]
+build-backend = "uv_build"
